@@ -38,16 +38,4 @@ Ensure you have the following installed to work with the notebooks:
 3. Start Jupyter Notebook.
 4. Open the desired notebook (e.g., `hw2_dnn.ipynb`, `hw2_convnet.ipynb`, or `hw2_resnet.ipynb`) and run the cells sequentially.
 
-## 🤝 Contribution
-
-- Ensure any enhancements or bug fixes are discussed by opening an issue before making a pull request.
-- Pull requests are always welcome. Ensure to update/add documentation and test cases if applicable.
-
-## 📚 Reference
-
-If you use the models or the repository in your work, please cite it appropriately.
-
-## 📞 Contact
-
-If you have any questions or feedback, feel free to open an issue or contact [Your Name/Email].
 
